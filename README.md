@@ -1,30 +1,9 @@
+# Biography
 
-<!DOCTYPE html>
-<html>
-    <head>
-    <link href="style.css" type="text/css" rel="stylesheet">
-        <title>
-            my bio
-        </title>
-    </head>
-    <body>
-        <h1>Hello!</h1>
-        <div>
-            <h2>My Name is Sarah</h2>
-            <p>Information about me</p>
-            <ul>
-                <li>I love to swim</li>
-              </ul>
-            <img src="https://nass.co.uk/wp-content/uploads/2018/07/Exercise-Swimming-front-crawl-2500x912.jpg">
-            <ul>
-                <li>I love food (favourite is rice)</li>
-            </ul>
-            <img src="https://farm8.staticflickr.com/7719/16489837464_3210947f4c_z.jpg">
+## links -https://sarahsegla.github.io/Biography-2/
 
-
-        </div>
-    </body>
-</html>
-
+## screenshot
+ 
+![bio](https://user-images.githubusercontent.com/117079336/209581546-380d511d-9b4c-4661-99b3-65c499afc093.png)
 
 
