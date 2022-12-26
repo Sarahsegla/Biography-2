@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="styles.css" type="text/css" rel="stylesheet">
+        <title>
+            my bio
+        </title>
+    </head>
+    <body>
+        <h1>Hello!</h1>
+        <div>
+            <h2>My Name is Sarah</h2>
+            <p>Information about me</p>
+            <ul>
+                <li>I love to swim</li>
+              </ul>
+            <img src="https://nass.co.uk/wp-content/uploads/2018/07/Exercise-Swimming-front-crawl-2500x912.jpg">
+            <ul>
+                <li>I love food (favourite is rice)</li>
+            </ul>
+            <img src="https://farm8.staticflickr.com/7719/16489837464_3210947f4c_z.jpg">
+        </div>
+    </body>
+</html>
